@@ -1,0 +1,114 @@
+/* navbar */
+#navbar {
+  background-color: #087c8e;
+}
+
+.navbar {
+  padding: 1rem 0 1rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Fuzzy Bubbles';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+h1 {
+  padding-bottom: 2%;
+}
+
+/* poetry */
+#poetry {
+  background-color: #8bc5cf;
+  padding: 6% 8%;
+}
+
+#WILpoetry {
+  background-color: #0C2B4E;
+  padding: 3rem;
+}
+
+#whitecontainer {
+  background-color: white;
+  padding: 5%;
+  border-radius:1% ;
+}
+
+.skilldiv {
+  margin-left: 4%;
+}
+
+.skillbox {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.poemskills {
+  font-size: large;
+}
+
+/* prose */
+#prose {
+  background-color: #8bc5cf;
+  padding: 6% 8%;
+}
+
+.cncards {
+  align-content: space-evenly;
+}
+
+#proseBlurb {
+  background-color: #0C2B4E;
+  padding: 2%;
+  border-radius: 20px;
+}
+
+#proseHeader {
+  color: white;
+  text-align: center;
+}
+
+#proseDesc {
+  color: white;
+  padding-top: 4%;
+}
+
+
+/*anthology */
+#anthology {
+  background-color: #0C2B4E;
+  padding: 3rem;
+  color:white;
+}
+
+#anthimg {
+  margin: 1rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+.anthcontainer {
+  margin: 5%;
+}
+
+/* cta */
+.col-lg-9 {
+  margin-top: 20px 0 0 0;
+}
+
+.ctaheading2 {
+  padding-top: 4%;
+}
+
+/* footer */
+#footer {
+  background-color: #087c8e;
+  padding: 3% 2% 2% 2%;
+  text-align: center;
+}
