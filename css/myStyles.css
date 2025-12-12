@@ -1,0 +1,223 @@
+.zalando-sans-header {
+  font-family: "Zalando Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 500%;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.tasa-orbiter {
+  font-family: "TASA Orbiter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* navbar */
+#navbar {
+  background-color: #087c8e;
+}
+
+.btn-primary {
+  background-color: #087c8e;
+}
+
+.btn-primary:hover,.btn-primary:active,.btn-primary:visited {
+  background-color:#6fafa0;
+  color: white;
+  outline-color: #9dd5df;
+}
+
+.btn-success {
+  background-color: #8ac1c9;
+}
+
+.btn-success:hover,.btn-success:active,.btn-success:visited {
+  background-color:#0C2B4E;
+  color: white;
+  outline-color: #9dd5df;
+}
+
+.navbar {
+  padding: 1rem 0 1rem 0;
+}
+
+.navbar-brand {
+  font-family: 'Zalando Sans';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/* title section */
+#title {
+  background-color: #0C2B4E;
+  padding: 0.5%;
+}
+
+#titlechunk {
+  margin: 5% 40% 0% 40%;
+  padding: 1% 50%;
+}
+
+#titlecaption {
+  font-size: 4rem;
+}
+
+.chatbtn {
+  margin-bottom: 1%;
+}
+
+.btn {
+  margin: 1rem 0 1.5rem 0;
+}
+
+.readMeDirect {
+  margin: 1.5rem 0 0 4rem;
+}
+
+
+/* about me */
+#aboutMe {
+  background-color: #1D546C;
+  padding: 5rem;
+}
+
+.aboutMeHeading {
+  padding: 0 3%;
+  text-align: right;
+}
+
+#aboutMeDesc1 {
+  color: #ffffff;
+  text-align: right;
+}
+
+#aboutMeDesc2 {
+  color: #9dd5df;
+  text-align: right;
+}
+
+#aboutMeBlurb {
+  font-size: larger;
+}
+
+ul {
+  color: #9dd5df;
+  float: right;
+}
+
+h1,p {
+  padding: 0 0 0 1%;
+  color: #fff;
+}
+
+.headshot {
+  width: 70%;
+  border-radius: 20%;
+  border-color: #fff;
+}
+
+/* testimonials */
+#testimonials {
+  background-color: #0C2B4E;
+  padding: 7%;
+  text-align: center;
+}
+
+.carouseltext {
+  font-size: 3rem;
+  color:#fff;
+}
+
+em.test {
+  color: #fff;
+  font-size: 2rem;
+}
+
+/* expertise */
+#myExp {
+  background-color: #1D546C;
+  padding: 5%;
+}
+
+#expertiseText {
+  color:black;
+}
+
+.expimg {
+  max-width: 700px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 10px auto;
+}
+
+.slide-caption {
+  text-align: center;
+}
+
+.expCaption {
+  font-style: normal;
+  font-size: larger;
+  margin-top: 10px;
+  color: #9dd5df;
+}
+
+.carousel-control-prev,.carousel-control-next {
+  width: 5%;
+}
+
+.expBlurb {
+  float: right;
+}
+
+#exp-carousel {
+  margin: 10px 0 0 0;
+}
+
+.readMearrow {
+  align-items: center;
+}
+
+/* brief cta */
+#cta {
+  background-color: #0C2B4E;
+  padding: 7% 0 5% 0;
+  text-align: center;
+  color: #fff;
+}
+
+.col-lg-9 {
+  margin-top: 20px 0 0 0;
+}
+
+.ctaheading {
+  padding-top: 4%;
+}
+
+.reslink {
+  font-size: large;
+  color: white;
+}
+
+.reslink:hover {
+  font-size: large;
+  color: #8bc5cf;
+}
+
+.reslink:visited {
+  font-size: large;
+  color: #26adc5;
+}
+/* brief footer */
+
+#footer {
+  background-color: #087c8e;
+  padding: 3% 2% 2% 2%;
+  text-align: center;
+}
